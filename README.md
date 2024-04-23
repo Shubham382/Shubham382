@@ -1,9 +1,8 @@
 <h1 align="center">Hi 👋, I'm Shubham</h1>
-<h3 align="center">I am a DevOps Engineer</h3>
+<h2 align="center">I am a DevOps Engineer</h2>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=shubham382&label=Profile%20views&color=0e75b6&style=flat" alt="shubham382" /> </p>
+<p align="left"> <img src="https://liveimages.algoworks.com/new-algoworks/wp-content/uploads/2023/01/05114244/DevOps-Challenges.gif" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=shubham382" alt="shubham382" /></a> </p>
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
@@ -31,3 +30,5 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=shubham382&show_icons=true&locale=en" alt="shubham382" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=shubham382&" alt="shubham382" /></p>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=shubham382" alt="shubham382" /></a> </p>
+
