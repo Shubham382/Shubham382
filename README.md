@@ -12,7 +12,7 @@
 
 - 📫 How to reach me **shubham.a.mandavkar@gmail.com`**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1ffIOP7-Y29zq5Ed7yeWwYl0dt_Q2XAGi/view?usp=drivesdk](https://drive.google.com/file/d/1ffIOP7-Y29zq5Ed7yeWwYl0dt_Q2XAGi/view?usp=drivesdk)
+- 📄 Know about my experiences [https://drive.google.com/file/d/1rz-zzM2J_yIpg-AX8o2JKsBCwN-CX5bM/view?usp=drive_link)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
