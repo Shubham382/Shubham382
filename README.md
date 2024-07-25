@@ -6,13 +6,11 @@
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
-- 🔭 I’m currently working on **Java Application**
-
-- 🌱 I’m currently learning **Terraform,Jenkin,CI-CD,Ansible,Jira**
-
+- 🔭 I’m currently working on **Java Base Application**
+  
 - 💬 Ask me about **AWS Cloud & DevOps Tools**
 
-- 📫 How to reach me **shubhammandavkar95@gmail.com`**
+- 📫 How to reach me **shubham.a.mandavkar@gmail.com`**
 
 - 📄 Know about my experiences [https://drive.google.com/file/d/1ffIOP7-Y29zq5Ed7yeWwYl0dt_Q2XAGi/view?usp=drivesdk](https://drive.google.com/file/d/1ffIOP7-Y29zq5Ed7yeWwYl0dt_Q2XAGi/view?usp=drivesdk)
 
